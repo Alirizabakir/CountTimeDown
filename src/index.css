@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+    @apply h-full w-full text-center rounded-sm border border-white bg-red-600 shadow-md
+}
